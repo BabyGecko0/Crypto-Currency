@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CryptoCurrencyApi-main/Crypto.iml" filepath="$PROJECT_DIR$/CryptoCurrencyApi-main/Crypto.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/CryptoCurrencyApi-main.iml" filepath="$PROJECT_DIR$/.idea/CryptoCurrencyApi-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CryptoCurrency.iml" filepath="$PROJECT_DIR$/.idea/CryptoCurrency.iml" />
     </modules>
   </component>
 </project>
